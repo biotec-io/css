@@ -1,6 +1,9 @@
-# Airbnb CSS / Sass Styleguide
+# Biotec.io CSS / Sass Styleguide
 
-*A mostly reasonable approach to CSS and Sass*
+*A mostly reasonable approach to CSS and Sass* based on [https://github.com/airbnb/css](airbnb/css) default configuration.
+
+## Installation and configuration
+The file `.sass-lint.yml` contains the default configuration, check instructions in [https://github.com/sasstools/sass-lint](sass-lint).
 
 ## Table of Contents
 
